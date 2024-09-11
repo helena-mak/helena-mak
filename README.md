@@ -46,7 +46,8 @@
 |[Анализ образовательного продукта](https://github.com/helena-mak/e-learning/tree/main)|Анализ данных учебных курсов. Определение лидеров и аутсайдеров среди курсов по уровню завершаемости студентами, популярности по регистрациям студентов. Сегментирование аудитории, RFM-анализ|Python - pandas, numpy, seaborn|
 |[Приложение для онлайн-знакомств](https://github.com/helena-mak/Dating_App/tree/main) |Анализ результатов A/B тестирования нового алгоритма подбора анкет пользователей. Определение и анализ метрик для оценки качества сервиса  | Python - pandas, numpy, scipy, seaborn   |
 | [Приложение доставки](https://github.com/helena-mak/Delivery_App/tree/main) |Анализ результатов A/B тестирования новой рекомендательной системы для поиска товаров. Определение и анализ метрик для оценки качества сервиса | Python - pandas, numpy, scipy, seaborn        |
-
+|[Дашборд по вакансиям в аналитике](https://public.tableau.com/views/Book1_17185421776570/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|Дашборд на основе данных hh.ru. Включены графики распределения зарплат по направлениям, сезонность найма, а также востребованость разных навыков |Tableau  |
+|[Дашбор метрик гостиничного бизнеса](https://public.tableau.com/views/bookingvalues2_17255372162480/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|Разработан дашборд с информацией о стоимости бронирования, количестве бронирований, каналах бронирований по нескольким отелям|Tableau|
  
 
 
