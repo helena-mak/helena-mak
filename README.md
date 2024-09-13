@@ -1,8 +1,7 @@
 <div class="image-container">
-  <img src="https://github.com/user-attachments/assets/ede129c5-f7c4-4397-88dc-a62a5a96eec5" alt="Aiva" class="profile-picture" loading="lazy" width="80" height="auto">
+  <img src="https://github.com/user-attachments/assets/66af034f-b94e-4106-a9d9-20d3bdf8deca" alt="Aiva" class="profile-picture" loading="lazy" width="110" height="auto">
   <span class="name"></span>
 </div>
-
 
  # Привет, меня зовут Елена 👋
   Я более 2-х лет занимаюсь аналитикой образования, сейчас сосредоточилась на развитии в data analyse и расширении своего профессионального опыта
